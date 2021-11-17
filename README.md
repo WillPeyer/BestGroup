@@ -1,3 +1,3 @@
 # BestGroup
 
-[a link](https://github.com/WillPeyer/BestGroup/blob/main/salamence.md)
+[Will's Pokemon](https://github.com/WillPeyer/BestGroup/blob/main/salamence.md)
